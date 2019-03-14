@@ -1,0 +1,14 @@
+C:\Users\admin\OneDrive\CodeProjects\Visual Studio 2017\HangMan\HangMan\HangMan\bin\Debug\HangMan.exe.config
+C:\Users\admin\OneDrive\CodeProjects\Visual Studio 2017\HangMan\HangMan\HangMan\bin\Debug\HangMan.exe
+C:\Users\admin\OneDrive\CodeProjects\Visual Studio 2017\HangMan\HangMan\HangMan\bin\Debug\HangMan.pdb
+C:\Users\admin\OneDrive\CodeProjects\Visual Studio 2017\HangMan\HangMan\HangMan\obj\Debug\HangMan.csprojAssemblyReference.cache
+C:\Users\admin\OneDrive\CodeProjects\Visual Studio 2017\HangMan\HangMan\HangMan\obj\Debug\HangMan.Properties.Resources.resources
+C:\Users\admin\OneDrive\CodeProjects\Visual Studio 2017\HangMan\HangMan\HangMan\obj\Debug\HangMan.csproj.GenerateResource.cache
+C:\Users\admin\OneDrive\CodeProjects\Visual Studio 2017\HangMan\HangMan\HangMan\obj\Debug\HangMan.csproj.CoreCompileInputs.cache
+C:\Users\admin\OneDrive\CodeProjects\Visual Studio 2017\HangMan\HangMan\HangMan\obj\Debug\HangMan.exe
+C:\Users\admin\OneDrive\CodeProjects\Visual Studio 2017\HangMan\HangMan\HangMan\obj\Debug\HangMan.pdb
+C:\Users\admin\OneDrive\CodeProjects\Visual Studio 2017\HangMan\HangMan\HangMan\obj\Debug\HangMan.HangMan.resources
+C:\Users\admin\OneDrive\CodeProjects\Visual Studio 2017\HangMan\HangMan\HangMan\bin\Debug\HangMan.exe.manifest
+C:\Users\admin\OneDrive\CodeProjects\Visual Studio 2017\HangMan\HangMan\HangMan\bin\Debug\HangMan.application
+C:\Users\admin\OneDrive\CodeProjects\Visual Studio 2017\HangMan\HangMan\HangMan\obj\Debug\HangMan.exe.manifest
+C:\Users\admin\OneDrive\CodeProjects\Visual Studio 2017\HangMan\HangMan\HangMan\obj\Debug\HangMan.application
